@@ -1,0 +1,9 @@
+[submodule "libs/a"]
+	path = libs/a
+	url = https://github.com/jack-324/special-waffle1
+[submodule "libs/b"]
+	path = libs/b
+	url = https://github.com/jack-324/special-waffle2
+[submodule "libs/c"]
+	path = libs/c
+	url = https://github.com/jack-324/special-waffle3
